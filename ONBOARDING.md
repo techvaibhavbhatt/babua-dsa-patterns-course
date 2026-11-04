@@ -52,9 +52,9 @@ This sheet is designed to help onboard new learners into the course.
 | 30  | Sorting-1-Theory                                       | [🎥 Watch Video](https://www.youtube.com/watch?v=xk7O7jflrMo&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo)          |✅ Done |
 | 31  | Comparison-Based Sort                                  | [🎥 Watch Video](https://www.youtube.com/watch?v=KRahIjlkQgI&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo&index=2)  |✅ Done |
 | 32  | Recursion-1-Introduction                               | [🎥 Watch Video](https://www.youtube.com/watch?v=p37ycIwH32Q&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7)          |✅ Done |
-| 33  | Recursion-2-344. Reverse String                        | [🎥 Watch Video](https://www.youtube.com/watch?v=4bn14L0NCeY&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=2)  | ☐      |
-| 34  | 1 Recursion Template to solve all problems             | [🎥 Watch Video](https://www.youtube.com/watch?v=N6DRtWQUin8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=3)  | ☐      |
-| 35  | 24. Swap Nodes in Pairs                                | [🎥 Watch Video](https://www.youtube.com/watch?v=Nb-lNhA5mg8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=4)  | ☐      |
+| 33  | Recursion-2-344. Reverse String                        | [🎥 Watch Video](https://www.youtube.com/watch?v=4bn14L0NCeY&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=2)  |✅ Done |
+| 34  | 1 Recursion Template to solve all problems             | [🎥 Watch Video](https://www.youtube.com/watch?v=N6DRtWQUin8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=3)  |✅ Done |
+| 35  | 24. Swap Nodes in Pairs                                | [🎥 Watch Video](https://www.youtube.com/watch?v=Nb-lNhA5mg8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=4)  |✅ Done |
 | 36  | Introduction to Stacks                                 | [🎥 Watch Video](https://www.youtube.com/watch?v=-hZJcd949C4&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=2)  | ☐      |
 | 37  | 155. Min Stack                                         | [🎥 Watch Video](https://www.youtube.com/watch?v=K-_nLrXJ3AI&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=3)  | ☐      |
 | 38  | Binary Search Tree - 1-Introduction                    | [🎥 Watch Video](https://www.youtube.com/watch?v=1lMmEPJBvsI&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=2)  | ☐      |
